@@ -9,7 +9,7 @@ Extract data from a web page using **BeautifulSoup** and exporting it to Excel
 - [Executing Py File](#Executing-Py-File)
 - [Errors logging in case of 404](#Errors-logging-in-case-of-404)
 - [Excel Generated with Data](#Excel-Generated-with-Data)
-- [Images Downloaded from Web Page](#Excel)
+- [Images stored on excel locally and can be accesed via local links](#Images-stored-on-excel-locally-and-can-be-accesed-via-local-links)
 
 
 ## Installation
@@ -28,7 +28,7 @@ This Project would require
 The Excel data is scraped through http://agriculture.gov.au/pests-diseases-weeds/plant
 via **BeautifulSoup** in Python
 
-## Executing **webcrawl.py** File
+## Executing webcrawl.py File
 ![Screenshot](Screenshots/Screenshot_1.png)
 
 ## Errors logging in case of **404**
