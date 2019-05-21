@@ -6,7 +6,7 @@ Extract data from a web page using **BeautifulSoup** and exporting it to Excel
 ### Table of content
 - [Installation](#installation)
 - [About Data](#About-Data)
-- [Executing webcrawl File](#Executing-Py-File)
+- [Executing webcrawl.py File](#Executing-Py-File)
 - [Errors logging in case of 404](#Errors-logging-in-case-of-404)
 - [Excel Generated with Data](#Excel-Generated-with-Data)
 - [Images stored on excel locally and can be accesed via local links](#Images-stored-on-excel-locally-and-can-be-accesed-via-local-links)
