@@ -23,22 +23,22 @@ This Project would require
 - urllib3 1.24.2
 - XlsxWriter 1.1.8
 
-### About Data
+## About Data
 
 The Excel data is scraped through http://agriculture.gov.au/pests-diseases-weeds/plant
 via **BeautifulSoup** in Python
 
-### Executing **webcrawl.py** File
+## Executing **webcrawl.py** File
 ![Screenshot](Screenshots/Screenshot_1.png)
 
-### Errors logging in case of **404**
+## Errors logging in case of **404**
 ![Images](Screenshots/Screenshot_2.png)
 
 ## Excel Generated with Data
 ![Images](Screenshots/excel_data.png)
 
-## Images Downloaded from Web Page
-### Images stored on excel locally and can be accesed via local links
+ - Images are Downloaded from Web Page
+## Images stored on excel locally and can be accesed via local links
 ![Images](Screenshots/hyperlink_excel.png)
 
 
